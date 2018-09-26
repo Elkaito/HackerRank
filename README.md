@@ -5,4 +5,5 @@
     </br> A collection of solutions and algorithms to HackerRank problems
 </p>
 
+* 10 Days of Statistics
 
