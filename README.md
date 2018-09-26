@@ -5,5 +5,10 @@
     </br> A collection of solutions and algorithms to HackerRank problems
 </p>
 
-* 10 Days of Statistics
+* [10 Days of Statistics](#10-days-of-statistics)
 
+# 10 Days of Statistics
+
+| Day | Challenge | Score | Solution |
+|:...:|:.........:|:.....:|:........:|
+|0||[Mean, Median, and Mode](https://www.hackerrank.com/challenges/s10-basic-statistics/problem)|30||Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%200%20-%20Mean%2C%20Median%2C%20and%20Mode/Solution.py)|
