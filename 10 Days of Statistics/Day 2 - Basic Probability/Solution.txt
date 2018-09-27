@@ -1,0 +1,17 @@
+Author: Kai Tanaka
+
+The total number of possibilities is 6*6=36.
+
+Let P(A) denote find the probability that their sum will be at most 9.
+
+We define P(B) to be the probability that the sum will be greather than 9.
+
+This will result in: P(A) := 1 - P(B)
+
+Out of all 36 cases there are only 6 possible combinations satisfying condition B:
+
+{(4,6),(5,6),(6,4),(6,5),(5,5),(6,6)} ==> P(B) = 6/36 = 1/6
+
+P(A) = 1- 1/6 = 5/6
+
+Therefore the answer is 5/6.

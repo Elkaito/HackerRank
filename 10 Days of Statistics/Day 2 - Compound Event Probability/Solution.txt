@@ -1,0 +1,13 @@
+Urn X : P(b)=3/7 , P(r)=4/7
+
+Urn Y : P(b)=4/9 , P(r)=5/9
+
+Urn Z : P(b)=1/2 , P(r)=1/2
+
+The probability of having exactly 2 red blass and 1 black after 3 draws is:
+
+P(2 red, 1 black) = P(r,r,b) + P(r,b,r) + P(b,r,r)
+
+= 4/7*5/9*1/2 + 4/7*4/9*1/2 + 3/7*5/9*1/2 = 17/42
+
+The answer is 17/42 = 0.4047%

@@ -1,0 +1,8 @@
+Author: Kai Tanaka
+
+There are 13 of each different suits.
+
+When we first draw a card there are 12 out of 51 cards of the same suit left.
+The probability that both/the second card are of the same suit is 12/51.
+
+Answer: 12/51

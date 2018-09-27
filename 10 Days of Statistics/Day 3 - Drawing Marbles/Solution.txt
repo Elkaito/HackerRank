@@ -1,0 +1,6 @@
+Authir: Kai Tanaka
+
+Drawing the first red marble leaves us with the possibility of P(b)=4/6 and P(r)=2/6.
+The probability that the marble second marble is blue is therefore 4/6=2/3.
+
+Answer 2/3.

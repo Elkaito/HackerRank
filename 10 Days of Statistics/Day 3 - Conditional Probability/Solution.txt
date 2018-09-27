@@ -1,0 +1,8 @@
+Author: Kai Tanaka
+
+There are 4 possible cases: (B,B),(B,G),(G,B),(G,G).
+Since we know that one of the child is a boy, we can exclude the case (G,G).
+The probability that both children are boys is therefore 1/3 since only (B,B) satisfies the condition 
+out of 3 possible cases.
+
+Answer: P(BB|B)=1/3

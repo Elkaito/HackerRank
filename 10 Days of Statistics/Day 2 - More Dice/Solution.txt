@@ -1,0 +1,11 @@
+Author: Kai Tanaka
+
+The total number of possibilities is 6*6=36
+The number of outcomes satisfying the condition is:
+
+| {(5,1),(4,2),(2,4),(5,1)} |= 4
+
+Therefore the probability is = 4/36 = 1/9
+
+The answer is 1/9.
+
