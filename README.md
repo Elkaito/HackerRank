@@ -6,6 +6,7 @@
 </p>
 
 * [10 Days of Statistics](#10-days-of-statistics)
+* [Python](#Python)
 
 # 10 Days of Statistics
 
@@ -30,3 +31,9 @@
 |5|[Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205%20-%20Poisson%20Distribution%20II/Solution.py)|
 |5|[Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205%20-%20Normal%20Distribution%20I/Solution.py)|
 |5|[Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205%20-%20Normal%20Distribution%20II/Solution.py)|
+
+# Python
+
+| Subdomain | Challenge | Score | Solution |
+|:---------:|:---------:|:-----:|:--------:|
+|Introduction|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|5|[Solution.py]()|
