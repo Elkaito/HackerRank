@@ -6,7 +6,7 @@
 </p>
 
 * [10 Days of Statistics](#10-days-of-statistics)
-* [Python](#Python)
+* [Python](#python)
 
 # 10 Days of Statistics
 
@@ -36,4 +36,10 @@
 
 | Subdomain | Challenge | Score | Solution |
 |:---------:|:---------:|:-----:|:--------:|
-|Introduction|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|5|[Solution.py]()|
+|Introduction|[Say "Hello, World!" With Python](https://www.hackerrank.com/challenges/py-hello-world/problem)|5|[Solution.py](https://github.com/Elkaito/HackerRank/tree/master/Python/Introduction/Say%20%20Hello%2C%20World!%20With%20Python)|
+|Introduction|[Python If-Else](https://www.hackerrank.com/challenges/py-if-else/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Python%20If-Else/Solution.py)|
+|Introduction|[Arithmetic Operators](https://www.hackerrank.com/challenges/python-arithmetic-operators/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Arithmetic%20Operators/Solution.py)|
+|Introduction|[Python: Division](https://www.hackerrank.com/challenges/python-division/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Python%20-%20Division/Solution.py)|
+|Introduction|[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Loops/Solution.py)|
+|Introduction|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Write%20a%20function/Solution.py)|
+|Introduction|[Print function](https://www.hackerrank.com/challenges/python-print/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Print%20Function/Solution.py)|
