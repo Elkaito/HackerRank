@@ -31,6 +31,10 @@
 |5|[Poisson Distribution II](https://www.hackerrank.com/challenges/s10-poisson-distribution-2/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205%20-%20Poisson%20Distribution%20II/Solution.py)|
 |5|[Normal Distribution I](https://www.hackerrank.com/challenges/s10-normal-distribution-1/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205%20-%20Normal%20Distribution%20I/Solution.py)|
 |5|[Normal Distribution II](https://www.hackerrank.com/challenges/s10-normal-distribution-2/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%205%20-%20Normal%20Distribution%20II/Solution.py)|
+|6|[The Central Limit Theorem I](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-1/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20I/Solution.py)|
+|6|[The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20II/Solution.py)|
+|6|[The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20III/Solution.py)|
+|7|[Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%207%20-%20Pearson%20Correlation%20Coefficient%20I/Solution.py)|
 
 # Python
 
