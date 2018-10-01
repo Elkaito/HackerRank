@@ -47,3 +47,9 @@
 |Introduction|[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Loops/Solution.py)|
 |Introduction|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Write%20a%20function/Solution.py)|
 |Introduction|[Print function](https://www.hackerrank.com/challenges/python-print/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Print%20Function/Solution.py)|
+|Basic Data Types|[]()||[]()|
+|Basic Data Types|[]()||[]()|
+|Basic Data Types|[]()||[]()|
+|Basic Data Types|[]()||[]()|
+|Basic Data Types|[]()||[]()|
+|Basic Data Types|[]()||[]()|

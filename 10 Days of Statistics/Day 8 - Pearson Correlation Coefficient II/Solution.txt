@@ -1,0 +1,40 @@
+# Author: Kai Tanaka
+
+Rewriting both equations gives us: 
+
+I:  3x + 4y + 8 <=> y = -3/4x - 2
+II: 4x + 3y + 7 <=> x = -3/4 y - 7/4
+
+This gives us the b_1/2 values with:
+
+b1 = -3/4 and b2 = -3/4
+
+Where b is defined as: b = p * (std_y / std_x)  and p is the pearson cofficient.
+=> p = b * (std_x / std_y)
+
+Substituting the respective b's gives us:
+
+I:  p = b1 * (std_x / std_y)
+II: p = b2 * (std_y / std_x)
+
+Now solve for p:
+
+(I * II)
+p^2 = b1 * b2 (std_x / std_y) *  (std_y / std_x)
+p^2 = b1 * b2
+p^2 = (-3/4)^2
+p^2 = 9/16
+
+p = +|- 3/4
+
+Because the given equations gives us negatives slopes, p is negative.
+
+Answer: -3/4
+
+
+
+
+
+
+
+
