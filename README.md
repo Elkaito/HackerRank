@@ -35,6 +35,10 @@
 |6|[The Central Limit Theorem II](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-2/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20II/Solution.py)|
 |6|[The Central Limit Theorem III](https://www.hackerrank.com/challenges/s10-the-central-limit-theorem-3/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%206%20-%20The%20Central%20Limit%20Theorem%20III/Solution.py)|
 |7|[Pearson Correlation Coefficient I](https://www.hackerrank.com/challenges/s10-pearson-correlation-coefficient/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%207%20-%20Pearson%20Correlation%20Coefficient%20I/Solution.py)|
+|7|[Spearman's Rank Correlation Coefficient](https://www.hackerrank.com/challenges/s10-spearman-rank-correlation-coefficient/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%207%20-%20Spearman's%20Rank%20Correlation%20Coefficient/Solution.py)|
+|8|[Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%208%20-%20Least%20Square%20Regression%20Line/Solution.py)|
+|8|[Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem)|30|[Solution](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%208%20-%20Pearson%20Correlation%20Coefficient%20II/Solution.txt)|
+|9|[Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%209%20-%20Multiple%20Linear%20Regression/Solution.py)|
 
 # Python
 
@@ -47,9 +51,9 @@
 |Introduction|[Loops](https://www.hackerrank.com/challenges/python-loops/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Loops/Solution.py)|
 |Introduction|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Write%20a%20function/Solution.py)|
 |Introduction|[Print function](https://www.hackerrank.com/challenges/python-print/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Introduction/Print%20Function/Solution.py)|
-|Basic Data Types|[]()||[]()|
-|Basic Data Types|[]()||[]()|
-|Basic Data Types|[]()||[]()|
-|Basic Data Types|[]()||[]()|
-|Basic Data Types|[]()||[]()|
-|Basic Data Types|[]()||[]()|
+|Basic Data Types|[List Comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem)|10|[Solution.py]()|
+|Basic Data Types|[Find the Runner-Up Score!](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Basic%20Data%20Types/Find%20the%20Runner-Up%20Score/Solution.py)|
+|Basic Data Types|[Nested Lists](https://www.hackerrank.com/challenges/nested-list/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Basic%20Data%20Types/Nested%20Lists/Solution.py)|
+|Basic Data Types|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Basic%20Data%20Types/Finding%20the%20percentage/Solution.py)|
+|Basic Data Types|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Basic%20Data%20Types/Lists/Solution.py)|
+|Basic Data Types|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Basic%20Data%20Types/Tuples/Solution.py)|

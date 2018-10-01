@@ -1,4 +1,3 @@
-#import data
 import numpy as np
 # Get input
 m,n = [int(i) for i in input().strip().split(' ')]
@@ -30,4 +29,4 @@ result = Y_new + mu_y
 
 #print result
 for i in result:
-    print(round(float(i),2))
+    print("%.2f" %i)
