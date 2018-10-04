@@ -57,7 +57,7 @@
 |Basic Data Types|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Basic%20Data%20Types/Finding%20the%20percentage/Solution.py)|
 |Basic Data Types|[Lists](https://www.hackerrank.com/challenges/python-lists/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Basic%20Data%20Types/Lists/Solution.py)|
 |Basic Data Types|[Tuples](https://www.hackerrank.com/challenges/python-tuples/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Basic%20Data%20Types/Tuples/Solution.py)|
-|Strings|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)||[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Strings/sWAP%20cASE/Solution.py)|
+|Strings|[sWAP cASE](https://www.hackerrank.com/challenges/swap-case/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Strings/sWAP%20cASE/Solution.py)|
 |Strings|[String Split and Join](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Strings/String%20Split%20and%20Join/Solution.py)|
 |Strings|[What's Your Name?](https://www.hackerrank.com/challenges/whats-your-name/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Strings/What's%20Your%20Name/Solution.py)|
 |Strings|[Mutations](https://www.hackerrank.com/challenges/python-mutations/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Strings/Mutations/Solution.py)|
