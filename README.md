@@ -84,3 +84,10 @@
 |Sets|[Check Subset](https://www.hackerrank.com/challenges/py-check-subset/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Sets/Check%20Subset/Solution.py)|
 |Sets|[Check Strict Superset](https://www.hackerrank.com/challenges/py-check-strict-superset/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Sets/Check%20Strict%20Superset/Solution.py)|
 |Sets|[No Idea!](https://www.hackerrank.com/challenges/no-idea/problem)|50|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Sets/No%20Idea!/Solution.py)|
+|Math|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Math/Polar%20Coordinates/Solution.py)|
+|Math|[Mod Divmod](https://www.hackerrank.com/challenges/python-mod-divmod/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Math/Mod%20Divmod/Solution.py)|
+|Math|[Power - Mod Power](https://www.hackerrank.com/challenges/python-power-mod-power/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Math/Power%20-%20Mod%20Power/Solution.py)|
+|Math|[Integers Come In All Sizes](https://www.hackerrank.com/challenges/python-integers-come-in-all-sizes/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Math/Integers%20Come%20In%20All%20Sizes/Solution.py)|
+|Math|[Find Angle MBC](https://www.hackerrank.com/challenges/find-angle/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Math/Find%20Angle%20MBC/Solution.py)|
+|Math|[Triangle Quest](https://www.hackerrank.com/challenges/python-quest-1/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Math/Triangle%20Quest/Solution.py)|
+|Math|[Triangle Quest 2](https://www.hackerrank.com/challenges/triangle-quest-2/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Math/Triangle%20Quest%202/Solution.py)|
