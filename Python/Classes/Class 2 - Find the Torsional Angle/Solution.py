@@ -20,8 +20,8 @@ class Points(object):
     
     def absolute(self):
         return pow((self.x ** 2 + self.y ** 2 + self.z ** 2), 0.5)
-    
-    if __name__ == '__main__':
+
+if __name__ == '__main__':
     points = list()
     for i in range(4):
         a = list(map(float, input().split()))
