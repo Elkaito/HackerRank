@@ -112,3 +112,10 @@
 |Errors and Exceptions|[Incorrect Regex](https://www.hackerrank.com/challenges/incorrect-regex/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Errors%20and%20Exceptions/Incorrect%20Regex/Solution.py)|
 |Classes|[Classes: Dealing with Complex Numbers](https://www.hackerrank.com/challenges/class-1-dealing-with-complex-numbers/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Classes/Classes%20-%20Dealing%20with%20Complex%20Numbers/Solution.py)|
 |Classes|[Class 2 - Find the Torsional Angle](https://www.hackerrank.com/challenges/class-2-find-the-torsional-angle/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Classes/Class%202%20-%20Find%20the%20Torsional%20Angle/Solution.py)|
+|Build-Ins|[Zipped!](https://www.hackerrank.com/challenges/zipped/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/Zipped!/Solution.py)|
+|Build-Ins|[Input()](https://www.hackerrank.com/challenges/input/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/Input()/Solution.py)|
+|Build-Ins|[Python Evaluation](https://www.hackerrank.com/challenges/python-eval/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/Python%20Evaluation/Solution.py)|
+|Build-Ins|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/Any%20or%20All/Solution.py)|
+|Build-Ins|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/Athlete%20Sort/Solution.py)|
+|Build-Ins|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem)|40|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/ginortS/Solution.py)|
+
