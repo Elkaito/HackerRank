@@ -118,4 +118,7 @@
 |Build-Ins|[Any or All](https://www.hackerrank.com/challenges/any-or-all/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/Any%20or%20All/Solution.py)|
 |Build-Ins|[Athlete Sort](https://www.hackerrank.com/challenges/python-sort-sort/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/Athlete%20Sort/Solution.py)|
 |Build-Ins|[ginortS](https://www.hackerrank.com/challenges/ginorts/problem)|40|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Built-Ins/ginortS/Solution.py)|
+|Python Functionals|[Validating Email Addresses with a Filter](https://www.hackerrank.com/challenges/validate-list-of-email-address-with-filter/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Python%20Functionals/Validating%20Email%20Addresses%20With%20a%20Filter/Solution.py)|
+|Python Functionals|[Map and Lambda Function](https://www.hackerrank.com/challenges/map-and-lambda-expression/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Python%20Functionals/Map%20and%20Lambda%20Function/Solution.py)|
+|Python Functionals|[Reduce Function](https://www.hackerrank.com/challenges/reduce-function/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Python%20Functionals/Reduce%20Function/Solution.py)|
 
