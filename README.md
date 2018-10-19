@@ -6,7 +6,9 @@
 </p>
 
 * [10 Days of Statistics](#10-days-of-statistics)
+* [Data Structures](#data-structures)
 * [Python](#python)
+* [SQL](#sql)
 
 # 10 Days of Statistics
 
@@ -39,6 +41,12 @@
 |8|[Least Square Regression Line](https://www.hackerrank.com/challenges/s10-least-square-regression-line/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%208%20-%20Least%20Square%20Regression%20Line/Solution.py)|
 |8|[Pearson Correlation Coefficient II](https://www.hackerrank.com/challenges/s10-mcq-7/problem)|30|[Solution](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%208%20-%20Pearson%20Correlation%20Coefficient%20II/Solution.txt)|
 |9|[Multiple Linear Regression](https://www.hackerrank.com/challenges/s10-multiple-linear-regression/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/10%20Days%20of%20Statistics/Day%209%20-%20Multiple%20Linear%20Regression/Solution.py)|
+
+# Data Structures
+
+| Subdomain | Challenge | Score | Solution |
+|:---------:|:---------:|:-----:|:--------:|
+|Arrays|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|10|[Solution.java]()|
 
 # Python
 
@@ -159,3 +167,20 @@
 |Numpy|[Linear Algebra](https://www.hackerrank.com/challenges/np-linear-algebra/problem)|20|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Numpy/Linear%20Algebra/Solution.py)|
 |Debugging|[Words Score](https://www.hackerrank.com/challenges/words-score/problem)|10|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Debugging/Words%20Score/Solution.py)|
 |Debugging|[Default Arguments](https://www.hackerrank.com/challenges/default-arguments/problem)|30|[Solution.py](https://github.com/Elkaito/HackerRank/blob/master/Python/Debugging/Default%20Arguments/Solution.py)|
+
+# SQL
+
+| Subdomain | Challenge | Score | Solution |
+|:---------:|:---------:|:-----:|:--------:|
+|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|10|[Solution.sql]()|
+|Basic Select|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|10|[Solution.sql]()|
+|Basic Select|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|10|[Solution.sql]()|
+|Basic Select|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|10|[Solution.sql]()|
+|Basic Select|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|10|[Solution.sql]()|
+|Basic Select|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|10|[Solution.sql]()|
+|Basic Select|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|15|[Solution.sql]()|
+|Basic Select|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|10|[Solution.sql]()|
+|Basic Select|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|10|[Solution.sql]()|
+|Basic Select|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|30|[Solution.sql]()|
+|Basic Select|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|10|[Solution.sql]()|
+|Basic Select|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|10|[Solution.sql]()|

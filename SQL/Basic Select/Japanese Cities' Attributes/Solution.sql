@@ -1,0 +1,5 @@
+-- Author: Kai Tanaka
+
+SELECT *
+FROM CITY
+WHERE COUNTRYCODE='JPN';
