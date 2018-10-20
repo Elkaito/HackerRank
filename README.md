@@ -46,7 +46,7 @@
 
 | Subdomain | Challenge | Score | Solution |
 |:---------:|:---------:|:-----:|:--------:|
-|Arrays|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|10|[Solution.java]()|
+|Arrays|[Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem)|10|[Solution.java](https://github.com/Elkaito/HackerRank/blob/master/Data%20Structures/Arrays%20-%20DS/Solution.java)|
 
 # Python
 
@@ -172,15 +172,15 @@
 
 | Subdomain | Challenge | Score | Solution |
 |:---------:|:---------:|:-----:|:--------:|
-|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|10|[Solution.sql]()|
-|Basic Select|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|10|[Solution.sql]()|
-|Basic Select|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|10|[Solution.sql]()|
-|Basic Select|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|10|[Solution.sql]()|
-|Basic Select|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|10|[Solution.sql]()|
-|Basic Select|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|10|[Solution.sql]()|
-|Basic Select|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|15|[Solution.sql]()|
-|Basic Select|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|10|[Solution.sql]()|
-|Basic Select|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|10|[Solution.sql]()|
-|Basic Select|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|30|[Solution.sql]()|
-|Basic Select|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|10|[Solution.sql]()|
-|Basic Select|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|10|[Solution.sql]()|
+|Basic Select|[Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Revising%20the%20Select%20Query%20I/Solution.sql)|
+|Basic Select|[Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Revising%20the%20Select%20Query%20II/Solution.sql)|
+|Basic Select|[Select All](https://www.hackerrank.com/challenges/select-all-sql/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Select%20All/Solution.sql)|
+|Basic Select|[Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Select%20By%20ID/Solution.sql)|
+|Basic Select|[Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Japanese%20Cities'%20Attributes/Solution.sql)|
+|Basic Select|[Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Japanese%20Cities'%20Names/Solution.sql)|
+|Basic Select|[Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem)|15|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%201/Solution.sql)|
+|Basic Select|[Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%203/Solution.sql)|
+|Basic Select|[Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%204/Solution.sql)|
+|Basic Select|[Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem)|30|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%205/Solution.sql)|
+|Basic Select|[Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%206/Solution.sql)|
+|Basic Select|[Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Weather%20Observation%20Station%207/Solution.sql)|

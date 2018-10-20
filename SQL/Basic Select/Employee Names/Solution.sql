@@ -1,0 +1,5 @@
+-- Author: Kai Tanaka
+
+SELECT NAME 
+FROM EMPLOYEE 
+ORDER BY NAME;
