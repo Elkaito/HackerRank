@@ -192,3 +192,22 @@
 |Basic Select|[Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)|15|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Higher%20Than%2075%20Marks/Solution.sql)|
 |Basic Select|[Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem?h_r=next-challenge&h_v=zen)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Employee%20Names/Solution.sql)|
 |Basic Select|[Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)|10|[Solution.sql](https://github.com/Elkaito/HackerRank/blob/master/SQL/Basic%20Select/Employee%20Salaries/Solution.sql)|
+|Advanced Select|[Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)|20|[Solution.sql]()|
+|Advanced Select|[The PADS](https://www.hackerrank.com/challenges/the-pads/problem)|30|[Solution.sql]()|
+|Aggregation|[Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)|10|[Solution.sql]()|
+|Aggregation|[Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)|10|[Solution.sql]()|
+|Aggregation|[Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem?h_r=next-challenge&h_v=zen)|10|[Solution.sql]()|
+|Aggregation|[Average Population](https://www.hackerrank.com/challenges/average-population/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)|10|[Solution.sql]()|
+|Aggregation|[Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)|10|[Solution.sql]()|
+|Aggregation|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|10|[Solution.sql]()|
+|Aggregation|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|15|[Solution.sql]()|
+|Aggregation|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|20|[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[]()||[Solution.sql]()|

@@ -1,0 +1,4 @@
+-- Author: Kai Tanaka
+
+SELECT MAX(POPULATION) - MIN(POPULATION)
+FROM CITY;

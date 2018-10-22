@@ -1,0 +1,4 @@
+-- Author: Kai Tanaka
+
+SELECT ROUND(AVG(POPULATION))
+FROM CITY;
