@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://www.hackerrank.com/EL_Kaito">
+    <a href="https://www.hackerrank.com/EL_Kaito" target="_blank">
         <img height=85 src="https://d3keuzeb2crhkn.cloudfront.net/hackerrank/assets/styleguide/logo_wordmark-f5c5eb61ab0a154c3ed9eda24d0b9e31.svg">
     </a>
     </br> A collection of solutions and algorithms to HackerRank problems
@@ -202,12 +202,12 @@
 |Aggregation|[Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)|10|[Solution.sql]()|
 |Aggregation|[The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)|15|[Solution.sql]()|
 |Aggregation|[Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)|20|[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
-|Aggregation|[]()||[Solution.sql]()|
+|Aggregation|[Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)|15|[Solution.sql]()|
+|Aggregation|[Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)|10|[Solution.sql]()|
+|Aggregation|[Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem?h_r=next-challenge&h_v=zen)|14|[Solution.sql]()|
+|Aggregation|[Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem)|15|[Solution.sql]()|
+|Aggregation|[Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)|10|[Solution.sql]()|
+|Aggregation|[Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)|15|[Solution.sql]()|
+|Aggregation|[Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem?h_r=next-challenge&h_v=zen)|25|[Solution.sql]()|
+|Aggregation|[Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen)|30|[Solution.sql]()|
+|Aggregation|[Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem)|40|[Solution.sql]()|
